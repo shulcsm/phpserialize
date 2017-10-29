@@ -1,0 +1,8 @@
+[package]
+name = "phpserialize"
+version = "0.1.0"
+authors = ["Mārtiņš Šulcs <shulcsm@gmail.com>"]
+
+[dependencies]
+nom = "*"
+ordermap = "*"
